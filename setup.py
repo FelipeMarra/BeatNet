@@ -27,7 +27,7 @@ REQUIRED_PACKAGES = [
     'pytest',
     #'pyaudio',
     ##'pyfftw',
-    'madmom',
+    #'madmom', installing from source
     'torch',
     'Matplotlib',
 ]
